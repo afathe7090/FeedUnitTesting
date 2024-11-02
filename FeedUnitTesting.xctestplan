@@ -26,6 +26,7 @@
   },
   "testTargets" : [
     {
+      "parallelizable" : false,
       "target" : {
         "containerPath" : "container:FeedUnitTesting.xcodeproj",
         "identifier" : "743513CD2C95E81E003BF10E",
